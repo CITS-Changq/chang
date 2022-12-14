@@ -1,0 +1,6 @@
+com\example\batchdemo\BatchConfiguration.class
+com\example\batchdemo\BatchDemoApplication.class
+com\example\batchdemo\BatchConfiguration$1.class
+com\example\batchdemo\JobCompletionNotificationListener.class
+com\example\batchdemo\MatomeMisyu.class
+com\example\batchdemo\MatomeMisyuItemProcessor.class
